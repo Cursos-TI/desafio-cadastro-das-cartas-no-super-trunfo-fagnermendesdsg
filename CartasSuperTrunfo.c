@@ -20,6 +20,8 @@ int main() {
 
     // Declaração das variáveis para a primeira carta
 
+printf("Novo commit\n");
+
     char estado1[50] = "Ceará";
     char codigo1[4] = "A01";
     char nomecidade1[50] = "Fortaleza";
